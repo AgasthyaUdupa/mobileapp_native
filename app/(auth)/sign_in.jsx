@@ -20,7 +20,7 @@ password:''})
      handleChangeText={()=>setform({...form,email:e})}
      otherStyles='mt-7'
      keyboardType='email-address' />
-     <FormField title='password'
+     <FormField title='Password'
      value={form.password}
      handleChangeText={()=>setform({...form,password:e})}
      otherStyles='mt-7'
