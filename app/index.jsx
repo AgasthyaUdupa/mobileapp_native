@@ -6,6 +6,7 @@ import { images } from '../constants';
 import CustomButton from '../components/customButton';
 
 
+
 export default function App() {
   return (
     <SafeAreaView className='bg-primary h-full'>
